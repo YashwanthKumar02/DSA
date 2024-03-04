@@ -1,2 +1,2 @@
 # DSA
-These are the DSA I've solved
+These are the DSA problems I've solved
